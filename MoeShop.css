@@ -42,6 +42,7 @@ background-size: cover;
     left: 5px;
 }
 
+
 .theme-dark.context-menu .item:hover {
     background: #ffb3ba;
     color: #fff;
@@ -113,7 +114,7 @@ background-color: #ffb3ba;
 }
 
 .channels-wrap {
-    background-color: #bae1ff;
+    background-color: #ffb3ba;
     opacity: 0.8;
 }
 .dropdown-button {
