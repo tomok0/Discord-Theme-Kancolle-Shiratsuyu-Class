@@ -19,7 +19,7 @@ background-size: cover;
 
 .typeWindows-15E0Ys {
     padding-top: 4px;
-    background: #613843;
+    background: #ffb3ba;
 	margin-top:0px;
 }
 
@@ -33,7 +33,7 @@ background-size: cover;
 }
 
 .bd-blue .checkbox .checkbox-inner input[type=checkbox]:checked+span {
-    background-color: #bae1ff;
+    background-color: #ffb3ba;
     border-color: #000;
     border-width: 1px;
 }
@@ -58,7 +58,7 @@ background-size: cover;
 }
 
 .guilds-wrapper .guilds .friends-online {
-	    color: #D0D0D0;
+	    color: #bae1ff;
 }
 
 .guilds-wrapper .guild-separator:after {
@@ -77,19 +77,19 @@ background-size: cover;
 .guilds-wrapper .guilds-add {
     background: #B59A8E;
     color: ##ffb3ba;
-    border: #AA8997;
+    border: #bae1ff;
 }
 .guilds-wrapper .guilds .guild.unread:before {
     background: #FFF;
 }
 .guilds-wrapper .guilds .guild.audio .guild-inner:after, .guilds-wrapper .guilds .guild.video .guild-inner:after {
-background-color: #484361;
+background-color: #bae1ff;
 }	
 	
 /*================================= Channels =================================*/
 
 .channels-3g2vYe {
-    background-color: #E2C1B2;
+    background-color: #bae1ff;
     opacity: 0.8;
 }
 
@@ -98,22 +98,22 @@ background-color: #484361;
 }
 
 .header-1tSljs:hover {
-    background-color: #816578;
+    background-color: #ffb3ba;
 }
 
 .popout-open .header-1tSljs {
-    background-color: #816578;
+    background-color: #ffb3ba;
 }
 
 .header-1tSljs {
     border-bottom: 1px solid #7E86D7;
     box-shadow: none;
-	background: #5D3540;
+	background: #ffb3ba;
     opacity: 1;
 }
 
 .channels-wrap {
-    background-color: #E2C1B2;
+    background-color: #bae1ff;
     opacity: 0.8;
 }
 .dropdown-button {
