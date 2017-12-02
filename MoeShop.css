@@ -43,13 +43,13 @@ background-size: cover;
 }
 
 .theme-dark.context-menu .item:hover {
-    background: #bae1ff;
+    background: #ffb3ba;
     color: #fff;
 }
 
 /*================================= Servers =================================*/
 .guilds-wrapper {
-    background: #bae1ff;
+    background: #ffb3ba;
     opacity: 0.8;
 }
 
@@ -58,7 +58,7 @@ background-size: cover;
 }
 
 .guilds-wrapper .guilds .friends-online {
-	    color: #bae1ff;
+	    color: #ffb3ba;
 }
 
 .guilds-wrapper .guild-separator:after {
@@ -123,7 +123,7 @@ background-color: #bae1ff;
 	    margin: 0;
 }
 .contentSelectedText-3j5CXt {
-    background-color: #5D3540;
+    background-color: #ffb3ba;
     background-image: -webkit-linear-gradient(top,hsla(19,45%,30%,0.2),#484361);
 }
 .colorDefaultText-2v6rRX, .colorDefaultVoice-1x4dEl, .colorHoveredText-1CsxK1, .colorHoveredVoice-1P3kui, .colorLockedText-2onHWv, .colorLockedVoice-2VCSgk, .colorSelectedText-3YhFC6, .colorSelectedVoice-ieXC3Z, .colorUnreadText-1KwCnP, .colorUnreadVoice-1Ztv9I {
