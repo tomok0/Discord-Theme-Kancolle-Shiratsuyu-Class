@@ -76,20 +76,20 @@ background-size: cover;
 
 .guilds-wrapper .guilds-add {
     background: #B59A8E;
-    color: ##ffb3ba;
-    border: #bae1ff;
+    color: #ffb3ba;
+    border: #ffb3ba;
 }
 .guilds-wrapper .guilds .guild.unread:before {
     background: #FFF;
 }
 .guilds-wrapper .guilds .guild.audio .guild-inner:after, .guilds-wrapper .guilds .guild.video .guild-inner:after {
-background-color: #bae1ff;
+background-color: #ffb3ba;
 }	
 	
 /*================================= Channels =================================*/
 
 .channels-3g2vYe {
-    background-color: #bae1ff;
+    background-color: #ffb3ba;
     opacity: 0.8;
 }
 
@@ -142,11 +142,11 @@ background-color: #bae1ff;
     color: #FFF;
 }
 .wrapperUnreadText-1MykVG {
-    background: #613843;
+    background: #ffb3ba;
     opacity: 0.6;
 }
 .contentHoveredText-2HYGIY, .contentHoveredVoice-3qGNKh:active, .contentSelectedVoice-gTtYM9:active {
-    background-color: #AA8997;
+    background-color: 	#ffb3ba;
     background-image: -webkit-linear-gradient(top,hsla(250,18%,32%,0.5),#AA8997);
 }
 .nameHoveredText-2FFqiz {
@@ -166,12 +166,12 @@ background-color: #bae1ff;
     background-image: -webkit-linear-gradient(top,hsla(250,18%,32%,0.5),#AA8997);
 }
 .contentSelectedVoice-gTtYM9 {
-    background-color: #5D3540;
+    background-color: #ffb3ba;
     background-image: -webkit-linear-gradient(top,hsla(19,45%,30%,0.2),#484361);
 }
 .userHovered-3tfm93 {
     cursor: pointer;
-    background: #AA8997;
+    background: #ffb3ba;
     background-image: -webkit-linear-gradient(top,hsla(250,18%,32%,0.5),#AA8997);
     border-bottom-left-radius: 12px;
     border-top-left-radius: 12px;
@@ -195,7 +195,7 @@ background-color: #bae1ff;
 }
 .wrapperLockedText-Dsondf:hover, .wrapperLockedVoice-1XZJmE:hover {
     cursor: not-allowed;
-    background: #7E86D7;
+    background: #ffb3ba;
     opacity: 0.8;
 }
 .popout-menu {
