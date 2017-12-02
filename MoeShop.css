@@ -59,7 +59,7 @@ background-size: cover;
 }
 
 .guilds-wrapper .guilds .friends-online {
-	    color: #150024;
+	    color: #ffb3ba;
 }
 
 .guilds-wrapper .guild-separator:after {
@@ -72,13 +72,13 @@ background-size: cover;
 }
 
 .bd-blue *[style*="background-color: rgb(114, 137, 218)"] {
-    background-color: #ffb3ba !important;
+    background-color: #150024 !important;
 }
 
 .guilds-wrapper .guilds-add {
-    background: #B59A8E;
+    background: #ffb3ba;
     color: #ffb3ba;
-    border: #ffb3ba;
+    border: #150024;
 }
 .guilds-wrapper .guilds .guild.unread:before {
     background: #FFF;
