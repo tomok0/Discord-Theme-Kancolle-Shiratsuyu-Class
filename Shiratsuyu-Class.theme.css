@@ -1,4 +1,4 @@
-//META{"name":"Shiratsuyu_Theme","description":"pink fluffy DDs in Yukatas","author":"Flonneon","version":"1.07"}*//
+//META{"name":"MoeShop","description":"The Shop is open","author":"Tomok0","version":"1.07"}*//
 		/*================================= Background =================================*/
 
 
@@ -24,7 +24,7 @@ background-size: cover;
 }
 
 .theme-dark.context-menu {
-    background: #484361;
+    background: #ffb3ba;
     box-shadow: none;
 }
 
@@ -33,7 +33,7 @@ background-size: cover;
 }
 
 .bd-blue .checkbox .checkbox-inner input[type=checkbox]:checked+span {
-    background-color: #613843;
+    background-color: #bae1ff;
     border-color: #000;
     border-width: 1px;
 }
@@ -43,18 +43,18 @@ background-size: cover;
 }
 
 .theme-dark.context-menu .item:hover {
-    background: #7E86D7;
+    background: #bae1ff;
     color: #fff;
 }
 
 /*================================= Servers =================================*/
 .guilds-wrapper {
-    background: #5D3540;
+    background: #bae1ff;
     opacity: 0.8;
 }
 
 .guilds-wrapper .guilds .guild .guild-inner {
-    background: #A78293;
+    background: #ffb3ba;
 }
 
 .guilds-wrapper .guilds .friends-online {
@@ -66,17 +66,17 @@ background-size: cover;
 }
 
 .guild-inner {
-    background-color: #A78293!important;
+    background-color: #ffb3ba!important;
 	border-radius: 5px;
 }
 
 .bd-blue *[style*="background-color: rgb(114, 137, 218)"] {
-    background-color: #A78293 !important;
+    background-color: #ffb3ba !important;
 }
 
 .guilds-wrapper .guilds-add {
     background: #B59A8E;
-    color: #000044;
+    color: ##ffb3ba;
     border: #AA8997;
 }
 .guilds-wrapper .guilds .guild.unread:before {
