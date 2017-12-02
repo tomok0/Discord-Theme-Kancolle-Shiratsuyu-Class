@@ -50,16 +50,16 @@ background-size: cover;
 
 /*================================= Servers =================================*/
 .guilds-wrapper {
-    background: #ffb3ba;
+    background: #150024;
     opacity: 0.8;
 }
 
 .guilds-wrapper .guilds .guild .guild-inner {
-    background: #ffb3ba;
+    background: #150024;
 }
 
 .guilds-wrapper .guilds .friends-online {
-	    color: #ffb3ba;
+	    color: #150024;
 }
 
 .guilds-wrapper .guild-separator:after {
@@ -67,7 +67,7 @@ background-size: cover;
 }
 
 .guild-inner {
-    background-color: #ffb3ba!important;
+    background-color: #150024 !important;
 	border-radius: 5px;
 }
 
